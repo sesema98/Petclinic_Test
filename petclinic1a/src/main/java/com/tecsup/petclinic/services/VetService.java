@@ -1,6 +1,6 @@
 package com.tecsup.petclinic.services;
 
-import com.tecsup.petclinic.model.Vet;
+import com.tecsup.petclinic.entities.Vet;
 import com.tecsup.petclinic.repository.VetRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
