@@ -1,7 +1,8 @@
 package com.tecsup.petclinic.services;
 
-import com.tecsup.petclinic.model.Vet;
-import com.tecsup.petclinic.repository.VetRepository;
+
+import com.tecsup.petclinic.entities.Vet;
+import com.tecsup.petclinic.repositories.VetRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.*;
